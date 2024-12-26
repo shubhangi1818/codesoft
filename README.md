@@ -1,4 +1,4 @@
-# codesoft
+# CODESOFT
 titanic project
 import numpy as np
 import pandas as pd
